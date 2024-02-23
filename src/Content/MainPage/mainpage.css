@@ -1,0 +1,48 @@
+.container {
+    padding-top: 24px;
+}
+
+.button {
+    display: block;
+    width: 110px;
+    height: 44px;
+    text-align: center;
+    background-color: #5558FA;
+    border-radius: 4px;
+    color: #fff;
+    line-height: 44px;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.introForm {
+    width: 400px;
+}
+
+.input {
+    height: 44px;
+    width: inherit;
+    margin-bottom: 24px;
+    padding-left: 12px;
+    background-color:  rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+}
+
+.formInvalid {
+    border: 1px solid red;
+}
+
+.formInvalidtext {
+    color: red;
+}
+
+@media (max-width: 768px) {
+    .introForm {
+        width: 100%;
+    }
+}
+    

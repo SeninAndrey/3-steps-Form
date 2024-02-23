@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+input, button, select, option, textarea {
+    font-family: "SB Sans Text", serif;
+    font-size: 100%;
+}
+
+body {
+    padding: 0;
+    padding-top: 24px;
+    margin: 0;
+    background-color: #f4f4f5;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "SB Sans Text", serif;
+    text-decoration: none;
+}
+
+::placeholder {
+    font-family: "SB Sans Text", serif;
+}
+
+
+* {
+    color: black;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}
+
+button {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+
+

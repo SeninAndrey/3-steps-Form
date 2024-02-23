@@ -1,0 +1,26 @@
+.userBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.08);
+}
+
+.userLogo {    
+    width: 80px;
+    height: 80px;
+    margin-right: 24px;
+    border-radius: 40px;
+    background-color: #D5E4F7;
+    
+    text-align: center;
+    font-size: 40px;
+    line-height: 80px;
+    color: #212830;
+}
+
+.userName {
+    font-size: 20px;
+    line-height: 26px;
+}
