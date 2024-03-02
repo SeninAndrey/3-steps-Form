@@ -6,9 +6,7 @@
 
 ## Технические характеристики: 
 
-Для разработки приложения использовался [макет](https://www.figma.com/file/rzIp6awR6dGFVrcxcCEwzD/Untitled?type=design&node-id=0-1&t=90NCIZwzg7SIsdMb-0)
-
-[макет2](https://www.figma.com/file/mebZJp8UHAl9ENKVF1br3T/FrontCloudCamp-(Copy)?type=design&node-id=0-1&mode=design&t=5lN5rpWPT8SGACnI-0)
+Для разработки приложения использовался [макет](https://www.figma.com/file/mebZJp8UHAl9ENKVF1br3T/FrontCloudCamp-(Copy)?type=design&node-id=0-1&mode=design&t=5lN5rpWPT8SGACnI-0)
 
 В рамках дизайна формы реализовано 3 отдельных таба(шага) формы, которые можно переключать между собой. При переходе от таба к табу (в том числе возвращаясь на предыдущий) информация сохранятся.
 
